@@ -2,7 +2,8 @@
 * 目录
   * [项目研发流程](dev_flow)
   * [项目构建流程](create_flow)
-  * [编码规范]()
+  * [编码规范](code_standards)
+    * [Airbnb规范](airbnb.md)
   * [MVVM层级规范]()
   * [测试调试]()
   * [持续集成]()

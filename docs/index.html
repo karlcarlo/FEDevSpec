@@ -13,14 +13,19 @@
   <script>
     window.$docsify = {
       name: '前端开发流程规范',
-      repo: 'https://github.com/karlcarlo/FEDevSpec.git',
+      repo: 'karlcarlo/FEDevSpec',
       loadSidebar: true,
       alias: {
       '/.*/_sidebar.md': '/_sidebar.md'
       },
-      subMaxLevel: 2,
+      subMaxLevel: 3,
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+
+  <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-bash.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-json.min.js"></script>
+  <!-- 正确解析 emoji 字符串 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
 </body>
 </html>
