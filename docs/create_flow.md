@@ -1,15 +1,15 @@
 ## 常用组件或框架
 
-- lodash
-- axios
-- mock.js
-- antd
-- umi
+- [lodash](https://lodash.com/docs) 一个一致性、模块化、高性能的 JavaScript 实用工具库。
+- [axios](https://github.com/axios/axios) 一个基于 `promise` 的 `HTTP` 库,可以用在浏览器和 `node.js` 中
+- [mock.js](https://github.com/nuysoft/Mock/wiki) 生成随机数据，拦截 `Ajax` 请求
+- [antd](https://ant.design/) 基于 Ant Design 设计体系的 React UI 组件库，主要用于研发企业级中后台产品。
+- [umi](https://umijs.org/zh-CN) 插件化的企业级前端应用框架。
 
 ## 创建本地项目
 
 在开始构建项目阶段，一般有3种方式：
-1. 使用基本命令创建目录和初始化npm项目环境，手动配置依赖包。或者使用通用构建脚手架，例如[Yeoman](https://yeoman.io/)建立项目；
+1. 使用基本命令创建目录和初始化`npm`项目环境，手动配置依赖包。或者使用通用构建脚手架，例如[Yeoman](https://yeoman.io/)建立项目；
 2. 利用[vue-cli](https://cli.vuejs.org/zh/)、[Create React App](https://create-react-app.dev/)或[Umi](https://umijs.org/zh-CN)创建专属项目；
 3. 第三种，直接从代码库拉取已有的项目；
 
